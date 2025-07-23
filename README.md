@@ -6,7 +6,7 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ranipioner&show_icons=true&theme=tokyonight" />
   </a>
   <a href="https://github.com/ranipioner/convoychat">
-    <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranipioner&layout=compact&langs_count=8&card_width=400&theme=tokyonight" />
+    <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranipioner&layout=compact&langs_count=8&card_width=300&theme=tokyonight" />
   </a>
 </div>
 
